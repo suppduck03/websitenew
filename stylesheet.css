@@ -1,0 +1,120 @@
+body{
+    background-color: e0ece4;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+h1{
+    color: black;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+
+h2{
+    font-family: "Payfair Display";
+    letter-spacing: 5px;
+    font-size: larger;
+}
+
+h3{
+    font-family: "Payfair Display";
+    letter-spacing: 3px;
+    font-size: x-large;
+}
+h4{
+    font-family: "Payfair Display";
+    letter-spacing: 5px;
+}
+
+.button{
+    font-family: "Times New Roman", Georgia, Serif;
+    font-size: large;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    cursor:pointer;
+	margin: 0;
+	left: 50%;
+    right: 50%;
+}
+
+.button2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+p{
+    font-size: large;
+    letter-spacing: 5px;
+}
+
+.pp{
+    font-size: medium;
+    letter-spacing: 3px;
+}
+
+td{
+    font-family: "Payfair Display";
+    letter-spacing: 5px;
+    font-size: medium;
+}
+
+img {
+    border-radius: 8px;
+  }
+.zoom:hover {
+    transform: scale(1.2); 
+}
+
+.border {
+    border-style: groove;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 10px 15px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
+  }
+  input[type=text]:focus {
+    background-color: lightblue;
+  }
+
+  .main-nav{
+	margin: auto;
+	position: fixed;
+	width:100%;
+	height: 50px;
+	list-style:none;
+	top: 0px;
+	background-color:1a1c20;
+	opacity:1;
+}
+
+.main-nav li{
+	float:left;
+}
+
+.main-nav li a{
+color:white;
+font-size: 20 px;
+font-family: "roboto";
+text-align: center;
+position: right;
+padding: 5px 20px;
+margin: 10px;
+}
+
+.main-nav li a:hover{
+	color:black;
+}
+
+.main-nav li.active a{
+border: 1px 	;
+border-color: #f5dea3;
+}
+
+.abcd {
+    font-family: "roboto";
+}

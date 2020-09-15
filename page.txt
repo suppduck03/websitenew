@@ -1,0 +1,78 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="Dota2 Store">
+    <div id="store"></div>
+        <title>DOTA2 Store</title>
+    </head>
+
+    <body>
+        <h1><a href="index.html">Go to Home</a></h1>
+        <form action="MAILTO:suppduck03@gmail.com" method="POST" enctype="text/plain">
+    <table border="3">
+        <tr><td>
+            <table>
+                <tr>
+                   <td>Name</td> 
+                   <td><input type="text" id="Name" name="PersonName"></td>
+                </tr>
+                <tr>
+                   <td>E-mail</td>
+                    <td><input type="email" id="E-mail" name="Email"></td>
+                </tr>
+                <tr>
+                    <td>Contact Number</td>
+                   <td><input type="number" id="ContactNumber" name="ContactNumber"></td>
+                </tr>
+                <tr>
+                    <td>Address</td>
+                   <td><input type="text" id="Address" name="Address"></td>
+                </tr>
+                <tr>
+                    <td>Leave a note</td>
+                    <td><textarea name="Message" rows="8"></textarea></td>
+                </tr>
+                <tr>
+                    <td><input type="submit" name="Submit"></td>
+                </tr>
+            </table>
+	    </td>
+           <td>
+        <table border="2">
+            <tr>
+                <td><label>Anti Mage (10$)</label>
+                <input type="checkbox" name="Antimage Plushie" value="10$"><img src="IMAGE/antimage.jpg" width="250px" height="250px"></td>
+		<td><label>Blood Seeker (9.50$)</label>
+                <input type="checkbox" name="Bloodseeker Plushie" value="9.50$"><img src="IMAGE/bloodseeker.jpeg" width="250px" height="250px"></td>
+                <td><label>Earth Shaker (11$)</label>
+                <input type="checkbox" name="ES Plushie" value="11$"><img src="IMAGE/es.jpg" width="250px" height="250px"></td>
+		<td><label>Krobelus (12$)</label>
+                <input type="checkbox" name="Krob Plushie" value="12$"><img src="IMAGE/krob.jpg" width="250px" height="250px"></td>
+	   </tr>
+            <tr>
+                <td><label>Meepo (13$)</label>
+                <input type="checkbox" name="meepo Plushie" value="13$"><img src="IMAGE/meepo.jpg" width="250px" height="250px"></td>
+		<td><label>Pudge (9.50$)</label>
+                <input type="checkbox" name="pudge Plushie" value="9.50$"><img src="IMAGE/pudge.jpg" width="250px" height="250px"></td>
+                <td><label>Queen of Pain (15$)</label>
+                <input type="checkbox" name="qop Plushie" value="15$"><img src="IMAGE/qop.jpg" width="250px" height="250px"></td>
+		<td><label>Rikimaru (13$)</label>
+                <input type="checkbox" name="riki Plushie" value="13$"><img src="IMAGE/riki.jpg" width="250px" height="250px"></td>
+	   </tr>
+            <tr>
+                <td><label>Rubick (16$)</label>
+                <input type="checkbox" name="Rubick Plushie" value="16$"><img src="IMAGE/rubick.jpg" width="250px" height="250px"></td>
+		<td><label>Slark (20$)</label>
+                <input type="checkbox" name="Slark Plushie" value="20$"><img src="IMAGE/slark.jpg" width="250px" height="250px"></td>
+                <td><label>Tide Hunter (13$)</label>
+                <input type="checkbox" name="Tide Hunter Plushie" value="13$"><img src="IMAGE/tide.jpg" width="250px" height="250px"></td>
+		<td><label>Faceless Void (14$)</label>
+                <input type="checkbox" name="Faceless Void Plushie" value="14$"><img src="IMAGE/void.jpg" width="250px" height="250px"></td>
+	   </tr>
+ </table>
+    </td>
+    </tr>
+    </table>
+    </form>
+    </body>
+</html>

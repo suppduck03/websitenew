@@ -1,0 +1,74 @@
+<html>
+	<meta charset="utf-8">
+        <meta name="description" content="Home">
+	<head>
+
+	<title>🎮 Steam Link</title>
+	</head>
+<body>
+	<a href="%" name="top"></a>
+	<h1> DOTA 2 </h2>
+	<p><strong>Dota 2</strong> is a multiplayer online battle arena (MOBA) video game developed and published by Valve. The game is a sequel to Defense of the Ancients (DotA), which was a community-created mod for Blizzard Entertainment's Warcraft III: Reign of Chaos and its expansion pack, The Frozen Throne. Dota 2 is played in matches between two teams of five players, with each team occupying and defending their own separate base on the map. Each of the ten players independently controls a powerful character, known as a "hero", who all have unique abilities and differing styles of play. During a match, players collect experience points and items for their heroes to successfully defeat the opposing team's heroes in player versus player combat. A team wins by being the first to destroy the other team's "Ancient", a large structure located within their base.</p>
+	
+	<h2>The most-played game on Steam.</h2>
+	<p>	Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their 10th hour of play or 1,000th, there's always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has truly taken on a life of its own.</p>
+	<p><strong>Steam</strong></p>
+	<img src="IMAGE/circle.png" alt="Steam Logo" width="80px" height="80px">
+
+	<h2>One Battlefield. Infinite Possibilities.</h2>
+	<p>	When it comes to diversity of heroes, abilities, and powerful items, Dota boasts an endless array—no two games are the same. Any hero can fill multiple roles, and there's an abundance of items to help meet the needs of each game. Dota doesn't provide limitations on how to play, it empowers you to express your own style.</p>
+
+	<h2>All heroes are free.</h2>
+	<p>	Competitive balance is Dota's crown jewel, and to ensure everyone is playing on an even field, the core content of the game—like the vast pool of heroes—is available to all players. Fans can collect cosmetics for heroes and fun add-ons for the world they inhabit, but everything you need to play is already included before you join your first match.</p>
+	<br>
+	<audio controls loop>
+  	<source src="MUSIC/music.mp3" type="audio/mpeg">
+	Your browser does not support the audio element.
+	</audio>
+	<video width="850" height="700" controls autoplay loop muted>
+  	<source src="VIDEO/video.mp4" type="video/mp4">
+  	Your browser does not support the video tag.
+	</video>
+	<hr>
+	<br>
+	
+	<h1>DOTA2 Store</h1>
+	<h3>Check out our dota2 plushies selection for the very best in unique or custom, handmade pieces from our stuffed animals & plushies shops.</h3>
+        <p><em>What are you waiting for buy now!<a href="page.html"> Click here</a></em></p>
+	<br>
+        <table border="1">
+            <thead>
+                <th>Name</th>
+                <th>Picture</th>
+		<th>Attribute</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Blood Seeker</td>
+                    <td><a href="bloodseeker.html"><img src="IMAGE/bloodseeker.jpeg" width="250px" height="250px"></a></td>
+                    <td><a href="agility.html"><img src="IMAGE/agi.jpg" width="250px" height="250px"></a></td>
+		</tr>
+		<tr>
+                    <td>Blood Seeker</td>
+                    <td><a href="pudge.html"><img src="IMAGE/pudge.jpg" width="250px" height="250px"></a></td>
+                    <td><a href="strenght.html"><img src="IMAGE/str.jpg" width="250px" height="250px"></a></td>
+		</tr>
+		<tr>
+                    <td>Queen of Pain</td>
+                    <td><a href="qop.html"><img src="IMAGE/qop.jpg" width="250px" height="250px"></a></td>
+                    <td><a href="intelligence.html"><img src="IMAGE/int.jpg" width="250px" height="250px"></a></td>
+		</tr>
+
+
+
+
+            </tbody>
+        </table>
+	<br>
+	<a href="#top">Top Page</a>
+
+	<h3><emp>DISCLAIMER: THIS IS FOR SCHOOL PURPOSE<emp></h3>
+
+</body>
+
+</html>
